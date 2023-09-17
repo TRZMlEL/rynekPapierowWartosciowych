@@ -7,5 +7,7 @@ Strona która pobiera dane z innej strony internetowej z rynkiem papierów warto
 1. Aby uruchomić wpisz kolejno komędy:
 
   	  npm install
-  	  node backend.js
-2.  Następnie uruchom plik index.html
+
+     node backend.js
+   
+3.  Następnie uruchom plik index.html
